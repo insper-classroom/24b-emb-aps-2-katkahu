@@ -38,3 +38,8 @@ conectado no equipamento e não recebe mais comandos.
 Para conectar o bluetooth no linux, usar os passos descritos no site:
 
 - https://marcqueiroz.wordpress.com/aventuras-com-arduino/configurando-hc-06-bluetooth-module-device-no-ubuntu-12-04/
+
+- ## Descrição do controle:
+- O controle será produzido para o jogo HADES da empresa SuperGiant.
+- O controle consiste em 2 joysticks. Um para movimentar o personagem e outro para interagir com o sistema de mira. Além disso, o controle terá 5 botões sem contar o de ligar. 4 serão essenciais para o jogo e outro para start/stop.
+- O controle não terá nenhum sensor e nenhum atuador.
